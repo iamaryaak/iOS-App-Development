@@ -3,16 +3,13 @@
 ## Applications are made using XCode
 
 ### Installing
-
-( XCode dark mode >>>> )
-
   Step 1: Open the App Store
 
   Step 2: Search for Xcode 
 
   Step 3: Install Xcode
 
-  Step 4: Launch Code
+  Step 4: Launch Xcode
 
 
 ### Projects
