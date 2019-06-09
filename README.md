@@ -22,6 +22,8 @@
   * Rolls die on the screen
   * All new values are random
 * Magic 8 Ball App
+  * Write simple math operations with Swift 
+  * Integrate UIButtons
   * A new phrase pops up as soon as you press the button (Ask Me)
 * Spotify API intro app
   * Learned:
