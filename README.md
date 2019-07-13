@@ -25,7 +25,7 @@
   * Write simple math operations with Swift 
   * Integrate UIButtons
   * A new phrase pops up as soon as you press the button (Ask Me)
-* Xylophone App
+* Xylophone App - template from LondonAppBrewery
   * What I learned...
       * How to play sound using AVFoundation and AVAudioPlayer.
       * The ViewController lifecycle.
