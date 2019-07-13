@@ -25,8 +25,11 @@
   * Write simple math operations with Swift 
   * Integrate UIButtons
   * A new phrase pops up as soon as you press the button (Ask Me)
-* Spotify API intro app
-  * Learned:
-      * basics of the Spotify API
-      * API Documentation: <https://spotify.github.io/ios-sdk/html/>
-      * iOS SDK Quick Start: <https://developer.spotify.com/documentation/ios/quick-start/>
+* Xylophone App
+  * What I learned...
+      * How to play sound using AVFoundation and AVAudioPlayer.
+      * The ViewController lifecycle.
+      * How to use tags in Interface Builder.
+      * Error handling using try and catch.
+      * Code refactoring.
+      * Basic debugging for array index out of range errors.
