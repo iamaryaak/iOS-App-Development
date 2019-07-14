@@ -38,7 +38,7 @@ MVC - Model View Controller
   View - screen (frontend)
   Controller - handles communication between the model and the view, how data is requested and presented
   
-  Pros
+  Pros for using this Design Structure
   1) Provides Structure
   2) Recognized by other programmers
   3) Allows for code reuse 
