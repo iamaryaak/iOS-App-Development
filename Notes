@@ -1,0 +1,48 @@
+MVC Design Pattern - Make a Quiz App
+
+Status Bar Style Light
+  For it to carry over to the app, change the info in the Info.plist file.
+  Add new Key
+    View Controller-based status bar apperance (boolean type - set to NO by default)
+      ...tells it to ignore the View Controller code
+---------------------------------------------------------------------------------------------
+What is a Property List (plist)?
+    .plist is short for Property List and it’s a file that’s automatically created with every Xcode project. 
+    This file stores configuration information for the application at runtime (when the app is running). 
+    The information is stored in a format called a key-value pair. 
+---------------------------------------------------------------------------------------------
+Build a Data Model
+     *** "let" creates a constant / property
+     
+     Import Foundation - includes data storage, text processing, sorting and filtering
+     Import UIKit - provides the required infrastructure for your iOS or tvOS apps, 
+                    It provides the window and view architecture for implementing your interface, 
+                    the event handling infrastructure for delivering Multi-Touch and other types of input to your app, 
+                    and the main run loop needed to manage interactions among the user, the system, and your app
+                    
+---------------------------------------------------------------------------------------------
+OOP Concepts
+  Class - (blueprint) contains instructions on how to create an object
+  Objects - has properties, instance of a class.
+            1) Properties - defined using let and var
+            2) Actions - functions
+            3) Events - how the object responds to events happening to it
+  Vocab:
+    Properties - Constants and variables within a class  
+    Constants and variables - when they're created out of the class
+    Method - created within a class
+    Functions - created outside of a class
+---------------------------------------------------------------------------------------------
+MVC - Model View Controller
+  Model - manages Data, responsible for deleting, creating, and handling data (backend)
+  View - screen (frontend)
+  Controller - handles communication between the model and the view, how data is requested and presented
+  
+  Pros
+  1) Provides Structure
+  2) Recognized by other programmers
+  3) Allows for code reuse 
+        - you can change the data without affecting other parts of the code
+  4) Allows for multitasking
+ 
+  
