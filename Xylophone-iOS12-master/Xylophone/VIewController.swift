@@ -1,10 +1,9 @@
-//
 //  ViewController.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 27/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
-//
+//  Copyright © 2016 London App Brewery. 
+//  All rights reserved.
+
 
 import UIKit
 import AVFoundation // allows to tap into audio/visual components of the iPhone
