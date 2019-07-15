@@ -60,6 +60,8 @@ UIAlertController / UIAlertAction
 ---------------------------------------------------------------------------------------------          
 HUD - Heads Up Display
   Use ProgressHUD to display a popup for Right or Wrong answers
+  
+  @ProgressHUD created by relatedcode -> https://github.com/relatedcode/ProgressHUD
 ---------------------------------------------------------------------------------------------
 Code Syntax
   * whenever you use "in" , use self.methodName();
