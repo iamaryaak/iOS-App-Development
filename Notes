@@ -57,6 +57,9 @@ UIAlertController / UIAlertAction
           Default - apply the default style to action's button
           Cancel - cancels operation and leaves things unchanged
           Destructive - might change or delete data
+---------------------------------------------------------------------------------------------          
+HUD - Heads Up Display
+  Use ProgressHUD to display a popup for Right or Wrong answers
 ---------------------------------------------------------------------------------------------
 Code Syntax
   * whenever you use "in" , use self.methodName();
