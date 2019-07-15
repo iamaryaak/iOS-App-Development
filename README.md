@@ -53,4 +53,4 @@
     * Learn about class initialisation.
     * How to programmatically change UI elements such as Labels and Views.
     * Start thinking about data encapsulation and how to keep your data safe from corruption.
-    ![Image of "Quizzler" App](https://raw.githubusercontent.com/londonappbrewery/Images/master/Quizzler.gif)
+![Image of "Quizzler" App](https://raw.githubusercontent.com/londonappbrewery/Images/master/Quizzler.gif)
