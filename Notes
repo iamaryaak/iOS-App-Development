@@ -61,3 +61,5 @@ UIAlertController / UIAlertAction
 Code Syntax
   * whenever you use "in" , use self.methodName();
   * Int to String -> "\(int variable)"
+  * Progress Bar
+      ex: progressBar.frame.size.width = (view.frame.size.width / 13) * CGFloat (questionNumber + 1)
