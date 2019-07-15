@@ -45,4 +45,17 @@ MVC - Model View Controller
         - you can change the data without affecting other parts of the code
   4) Allows for multitasking
  
-  
+---------------------------------------------------------------------------------------------
+UIAlertController / UIAlertAction
+  Action Sheet vs Modal Alert
+  (Both have a title, message, and preffered style)
+  -> Action Sheet: pops up from bottom
+  -> Modal Alert: popup with multiple options
+        If chose this, then you have to create a UIAlertAction - an object represents an action 
+        that can be taken when tapping a button
+        Constants
+          Default - apply the default style to action's button
+          Cancel - cancels operation and leaves things unchanged
+          Destructive - might change or delete data
+
+  *** whenever you use "in" , use self.methodName();
