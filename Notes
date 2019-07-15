@@ -57,5 +57,7 @@ UIAlertController / UIAlertAction
           Default - apply the default style to action's button
           Cancel - cancels operation and leaves things unchanged
           Destructive - might change or delete data
-
-  *** whenever you use "in" , use self.methodName();
+---------------------------------------------------------------------------------------------
+Code Syntax
+  * whenever you use "in" , use self.methodName();
+  * Int to String -> "\(int variable)"
