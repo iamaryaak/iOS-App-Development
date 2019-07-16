@@ -63,6 +63,29 @@ HUD - Heads Up Display
   
   @ProgressHUD created by relatedcode -> https://github.com/relatedcode/ProgressHUD
 ---------------------------------------------------------------------------------------------
+Auto Constraints
+  Recreate the Dicee app
+  FIRST METHOD: Pinning
+    1) uncheck constain to margins
+    2) Set constraint to the top of the view (fixed number)
+    3) Same ^^^ for bottom
+    4) Click on the dashed lines for contraints
+    5) Click add 4 contraints
+    Clear constraints to restart
+  SECOND METHOD: 
+    1) Tick horizontally and vertically center
+    
+    
+    
+    TO CENTER ASPECTS OF APP
+      Use UIView to nest the images within it
+      Add contraints to the background
+        Same way as pinning 
+      Pin the objects inside the contraints 
+      Add background constraints (on all 4 sides)
+      
+    
+---------------------------------------------------------------------------------------------
 Code Syntax
   * whenever you use "in" , use self.methodName();
   * Int to String -> "\(int variable)"
