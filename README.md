@@ -54,3 +54,9 @@
     * How to programmatically change UI elements such as Labels and Views.
     * Start thinking about data encapsulation and how to keep your data safe from corruption.
 ![Image of "Quizzler" App](https://raw.githubusercontent.com/londonappbrewery/Images/master/Quizzler.gif)
+### Destini 
+  * Promts user to pick one of two choices to progress the short story
+  * Reset option is given at the end
+    * If story card doesn't have any other options and is the end
+  * Utilizes simple if/else statements
+  * Uses global variable to keep track of states
