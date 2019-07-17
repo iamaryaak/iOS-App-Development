@@ -14,3 +14,6 @@ The reason is because the constraints are constraining to the "Bottom Layout Gui
 4. Change the first dropdown to Superview and the constant to 0.
 
 
+FIX AN IMAGE IN A CONTAINER
+- set height and width
+- set horizontal and vertical constraints
