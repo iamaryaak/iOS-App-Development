@@ -27,3 +27,6 @@ Auto Layout using Stack View
       Go to ruler
         Go to Equal Width
           Set it to 1:2.1
+
+Distribute Block based off content
+  Go to Parent Stack View and change to "Fill Proportionally"
