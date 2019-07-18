@@ -17,3 +17,13 @@ The reason is because the constraints are constraining to the "Bottom Layout Gui
 FIX AN IMAGE IN A CONTAINER
 - set height and width
 - set horizontal and vertical constraints
+
+Auto Layout using Stack View
+  Embed objects in stack view
+  Change Properties
+    Set 0 and . to equal width
+    Set . and = to equal width
+    Select 0 and .
+      Go to ruler
+        Go to Equal Width
+          Set it to 1:2.1
