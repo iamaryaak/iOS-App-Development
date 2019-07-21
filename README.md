@@ -60,6 +60,3 @@
     * If story card doesn't have any other options and is the end
   * Utilizes simple if/else statements
   * Uses global variable to keep track of states
-### Calculator
-  * completes basic calculations
-![Image of "Calculator" App](https://raw.githubusercontent.com/iamaryaak/iOS-App-Development/master/Auto%20Layout%20Calculator/Screen%20Shot%202019-07-20%20at%207.58.46%20PM.png)
