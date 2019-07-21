@@ -60,3 +60,6 @@
     * If story card doesn't have any other options and is the end
   * Utilizes simple if/else statements
   * Uses global variable to keep track of states
+### Calculator
+  * completes basic calculations
+![Image of "Calculator" App](https://raw.githubusercontent.com/londonappbrewery/Images/master/Quizzler.gif)
