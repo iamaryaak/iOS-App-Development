@@ -60,3 +60,12 @@
     * If story card doesn't have any other options and is the end
   * Utilizes simple if/else statements
   * Uses global variable to keep track of states
+### Bitcoin Price Tracker  
+Project starter from LondonAppBrewery
+  * Uses UIPicker Class for users to pick the currency
+  * Presents User with price data for the asking price
+  * Utilizes Bitcoin Average API
+  * Uses Cocoapods
+    * SwiftyJSON
+    * Alamofire
+![Image of "Bitcoin Tracker" App](https://camo.githubusercontent.com/e0a14d3a9aa3f3742209f89d272c04d682f27218/687474703a2f2f692e67697068792e636f6d2f6c30486c51477a7a324d51434b494249342e676966)
